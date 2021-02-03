@@ -10,6 +10,8 @@ The part where I struggled with is that I tried to add a title and there was not
 I just chose a random font from google fonts website. One problem with the image was that the png had only one color making it difficult to see the distinct features.
 I chose to change the colors of the feature because it makes it easier to see the features. I also added separate tracks so the features don't overlap.
 
+![screenshot](ACM_virus.png)
+
 **Citations** <br/>
 https://fonts.google.com/
 
